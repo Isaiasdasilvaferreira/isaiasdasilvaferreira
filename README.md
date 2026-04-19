@@ -1,82 +1,78 @@
-# Delta
+# Δ Delta
 
-> CEO & CTO @ NwareLink • Research and Development Leader @ Delta
+> **CEO & CTO @ NwareLink** • **R&D Leader @ Delta** • **Systems Engineer**
 
-Engineer and technologist. Started at 14 — fully dedicated for over a year.  
-I build secure, high-performance systems and lead technical teams.
+```math
+\Delta = \frac{\text{Inovação} \times \text{Segurança}}{\text{Complexidade}} = \text{Performance}
 
----
+╔══════════════════╦════════════════════════════════════════════════════════╗
+║  LANGUAGES       ║  Java • JavaScript • C++ • Python                       ║
+╠══════════════════╬════════════════════════════════════════════════════════╣
+║  DATABASES       ║  PostgreSQL • Firebase (NoSQL) • Oracle (SQL/PLSQL)    ║
+╠══════════════════╬════════════════════════════════════════════════════════╣
+║  FRAMEWORKS      ║  React • Vite • Tauri • Flask • Django • Spring Boot   ║
+╠══════════════════╬════════════════════════════════════════════════════════╣
+║  WEB & INFRA     ║  HTML5 • CSS3 • REST • Cryptography • Distributed Sys  ║
+╚══════════════════╩════════════════════════════════════════════════════════╝
 
-## Technical Skills
+NWARELINK (2025–present)
+│
+├── CEO
+│   │   Fundação da startup • Marketing • Estratégia • Crescimento sustentável
+│   │
+│   └── CTO
+│       ├── Liderança técnica (time de 10+ engenheiros)
+│       ├── Algoritmo de otimização de CPU (C++/C)
+│       ├── Sistema contábil em Python (Excel → segundos)
+│       └── Aplicações empresariais em banco de dados
+│
+DELTA (2026–present)
+│
+├── R&D Leader
+│   │   Pesquisa em segurança e integridade de sistemas
+│   │   Diretrizes técnicas • Proteção de dados • Resiliência
+│   │   Validação de tecnologias • Propriedade intelectual
+│   │
+└── R&D Engineer
+        Arquitetura lógica security-first
+        Componentes de alta performance para sistemas distribuídos
+        Otimização de processos criptográficos
+        Modelos teóricos → código funcional
 
-| Area               | Technologies |
-|--------------------|--------------|
-| Languages          | Java, JavaScript, C++, Python |
-| Databases          | PostgreSQL, Firebase (NoSQL), Oracle (SQL/PLSQL) |
-| Frameworks         | React, Vite, Tauri, Flask, Django, Spring Boot |
-| Web & Core         | HTML, CSS, REST APIs, system architecture, cryptography |
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                                                                             │
+│                                    ▲                                        │
+│                              70%   │                                        │
+│                           ┌────────┴────────┐                               │
+│                           │                 │                               │
+│                           │  +70% PERFORMANCE                               │
+│                           │  Data flow via external APIs                    │
+│                           │  (front-end/back-end integration)              │
+│                           │                                                 │
+│                           └────────────────────────────────────────────────▶│
+│                                                                             │
+│   BEFORE ──────────────────────────────────────────────► AFTER              │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
 
----
+┌─────────────────────────────────────────────────────────────────┐
+│  CERTIFICATIONS                                                 │
+├────────────────────────────────┬────────────────────────────────┤
+│  Oracle Java Foundations       │  Oracle (Fev/2026)             │
+│  Oracle PL/SQL                 │  IFRS (Jan/2026)               │
+│  AI Fundamentals               │  SENAI (Jun/2025)              │
+│  Database Admin (MySQL/NoSQL)  │  Fundação Bradesco (Mar/2025)  │
+│  Control Systems               │  ITA (Jan/2025)                │
+│  English for Career Dev        │  UPenn (Fev/2025)              │
+└────────────────────────────────┴────────────────────────────────┘
 
-## Professional Experience
+┌─────────────────────────────────────────────────────────────────┐
+│  EDUCATION                                                      │
+├─────────────────────────────────────────────────────────────────┤
+│  Systems Development - Integrated Technical Course              │
+│  ETEC • Fev/2025 – Dez/2027                                     │
+└─────────────────────────────────────────────────────────────────┘
 
-### NwareLink — CEO & CTO
-*Jun 2025 – Present*
-
-- Founded the startup and manage strategy, marketing, and internal structure
-- Lead a technology team of 10+ professionals
-- Developed a CPU optimization algorithm in C++/C
-- Built a Python accounting system processing large Excel data in seconds
-- Created database applications for business and institutional use
-
-### Delta — Research and Development Leader
-*Feb 2026 – Present*
-
-- Lead research on system security and integrity models
-- Define technical guidelines for data protection and resilience
-- Oversee validation cycles and intellectual property protection
-- Analyze trends for critical infrastructure
-
-### Delta — Research and Development Engineer
-*Feb 2026 – Present*
-
-- Develop logical architecture with security-first principles
-- Build high-performance components for distributed systems
-- Optimize encryption and secure communication processes
-- Transform theoretical models into functional code
-
----
-
-## Key Achievement
-
-> **70% performance improvement** in data flow through external APIs  
-> *Front-end/back-end integration in corporate projects*
-
----
-
-## Education
-
-**Systems Development — Integrated Technical Course**  
-ETEC — Escola Técnica Estadual de São Paulo  
-*Feb 2025 – Dec 2027*
-
----
-
-## Certifications
-
-| Certification | Institution | Date |
-|---------------|-------------|------|
-| Oracle Java Foundations | Oracle | Feb 2026 |
-| Oracle PL/SQL | IFRS | Jan 2026 |
-| Fundamentals of AI | SENAI | Jun 2025 |
-| Database Administration (MySQL + NoSQL) | Fundação Bradesco | Mar 2025 |
-| Introduction to Control Systems | ITA | Jan 2025 |
-| English for Career Development | UPenn | Feb 2025 |
-
----
-
-## Contact
-
-- [LinkedIn](https://linkedin.com/in/seu-perfil)
-- [Email](mailto:seu@email.com)
-- [GitHub](https://github.com/seuusuario)
+[LinkedIn]   linkedin.com/in/seu-perfil
+[GitHub]     github.com/seu-usuario
+[Email]      seu@email.com
