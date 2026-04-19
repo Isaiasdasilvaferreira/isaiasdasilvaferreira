@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6366F1&center=true&vCenter=true&width=700&height=80&lines=%3E+CEO+%26+CTO+@+NwareLink;%3E+R%26D+Leader+@+Delta;%3E+Fullstack+Systems+Architect;%3E+Executing+High+Performance+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00C6C7&center=true&vCenter=true&width=700&height=80&lines=%3E+CEO+%26+CTO+@+NwareLink;%3E+R%26D+Leader+@+Delta;%3E+Fullstack+Systems+Architect;%3E+Executing+High+Performance+Systems" alt="Typing SVG" />
 
 <br>
 
@@ -78,12 +78,12 @@ Technology entrepreneur and systems engineer focused on **high-performance archi
   
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=isaiasdasilvaferreira&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=94A3B8" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaiasdasilvaferreira&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=3ECF8E" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=isaiasdasilvaferreira&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00C6C7&title_color=00C6C7&text_color=94A3B8" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaiasdasilvaferreira&layout=compact&theme=tokyonight&hide_border=true&bg_color=00C6C7&title_color=00C6C7&text_color=3ECF8E" height="170" />
   
   <br>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isaiasdasilvaferreira&theme=tokyonight&bg_color=0D1117&hide_border=true&color=6366F1" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isaiasdasilvaferreira&theme=tokyonight&bg_color=00C6C7&hide_border=true&color=00C6C7" width="100%" />
 </div>
 
 <br>
