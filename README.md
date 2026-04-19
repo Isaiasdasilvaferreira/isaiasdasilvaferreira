@@ -21,3 +21,20 @@ cargo_atual:
 dedicacao: Full-time | 1+ ano no setor de tecnologia
 inicio: 14 anos (autodidata e projetos pessoais)
 foco: Inovação tecnológica, segurança de sistemas, otimização de performance
+
+Categoria	Tecnologias
+Linguagens	Java JavaScript C++ Python
+Bancos de Dados	PostgreSQL Firebase/NoSQL Oracle (SQL/PLSQL)
+Frameworks	React Vite Tauri Flask Django Spring Boot
+Web & Infra	HTML5 CSS3 REST APIs Estruturas de rede Criptografia aplicada
+
+🧪 Projetos de Impacto | Key Metrics & Contributions
+70% de melhoria na performance de fluxo de dados via APIs externas
+(integração front-end/back-end em projetos corporativos)
+
+diff
++ CPU Optimization Algorithm (C++/C)    → Eficiência de processamento aumentada
++ Python Accounting System              → Leitura de Excel + processamento massivo em segundos
++ Security-first architecture (Delta)   → Modelos de integridade e proteção de dados
++ Database applications (NwareLink)     → Aplicações para áreas empresariais e institucionais
+
