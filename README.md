@@ -1,7 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=#009092&center=true&vCenter=true&width=700&height=80&lines=%3E+CEO+%26+CTO+@+NwareLink;%3E+R%26D+Leader+@+Delta;%3E+Fullstack+Systems+Architect;%3E+Executing+High+Performance+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=#00c6c7&center=true&vCenter=true&width=700&height=80&lines=%3E+CEO+%26+CTO+@+NwareLink;%3E+R%26D+Leader+@+Delta;%3E+Fullstack+Systems+Architect;%3E+Executing+High+Performance+Systems" alt="Typing SVG" />
 
+<br>
 <br>
 
 [![NwareLink](https://img.shields.io/badge/NwareLink-CEO_%26_CTO-0D1117?style=for-the-badge&labelColor=0D1117)](#)
