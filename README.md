@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=1D4ED8&center=true&vCenter=true&width=700&height=80&lines=%3E+CEO+%26+CTO+@+NwareLink;%3E+R%26D+Leader+@+Delta;%3E+Fullstack+Systems+Architect;%3E+Executing+High+Performance+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&height=80&lines=%3E+CEO+%26+CTO+@+NwareLink;%3E+R%26D+Leader+@+Delta;%3E+Fullstack+Systems+Architect;%3E+Executing+High+Performance+Systems" alt="Typing SVG" />
 
 <br>
 
-[![NwareLink](https://img.shields.io/badge/NwareLink-CEO_%26_CTO-0D1117?style=for-the-badge&labelColor=0D1117)](#)
-[![Delta](https://img.shields.io/badge/Delta-R%26D_Leader-0D1117?style=for-the-badge&labelColor=0D1117)](#)
-[![ETEC](https://img.shields.io/badge/ETEC-Systems_Development-0D1117?style=for-the-badge&labelColor=0D1117)](#)
+<img src="https://img.shields.io/badge/NwareLink-CEO_%26_CTO-0D1117?style=for-the-badge&labelColor=0D1117" alt="NwareLink" />
+<img src="https://img.shields.io/badge/Delta-R%26D_Leader-0D1117?style=for-the-badge&labelColor=0D1117" alt="Delta" />
+<img src="https://img.shields.io/badge/ETEC-Systems_Development-0D1117?style=for-the-badge&labelColor=0D1117" alt="ETEC" />
 
 <br>
 
@@ -33,11 +33,11 @@ Technology entrepreneur and systems engineer focused on **high-performance archi
       <img src="https://skillicons.dev/icons?i=supabase,postgres,firebase&theme=dark" />
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Frameworks-0D1117?style=for-the-badge&logo=layers&logoColor=1D4ED8" /><br><br>
+      <img src="https://img.shields.io/badge/Frameworks-0D1117?style=for-the-badge&logo=layers&logoColor=06B6D4" /><br><br>
       <img src="https://skillicons.dev/icons?i=react,vite,spring,django,flask&theme=dark" />
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Web_Infra-0D1117?style=for-the-badge&logo=server&logoColor=1D4ED8" /><br><br>
+      <img src="https://img.shields.io/badge/Web_Infra-0D1117?style=for-the-badge&logo=server&logoColor=06B6D4" /><br><br>
       <img src="https://skillicons.dev/icons?i=html,css,git,vercel,linux&theme=dark" />
     </td>
   </tr>
@@ -74,16 +74,16 @@ Technology entrepreneur and systems engineer focused on **high-performance archi
 ### 📊 System Diagnostics & Engine Activity
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Engine_Activity-77_Contributions_in_the_last_year-1D4ED8?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Engine_Activity-77_Contributions_in_the_last_year-06B6D4?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
   
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=isaiasdasilvaferreira&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1D4ED8&text_color=94A3B8" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaiasdasilvaferreira&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1D4ED8&text_color=3ECF8E" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=isaiasdasilvaferreira&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=94A3B8&icon_color=06B6D4" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaiasdasilvaferreira&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=3ECF8E" height="170" />
   
   <br>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isaiasdasilvaferreira&theme=tokyonight&bg_color=0D1117&hide_border=true&color=1D4ED8" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isaiasdasilvaferreira&theme=tokyonight&bg_color=0D1117&hide_border=true&color=00FFFF&line=00FFFF&point=06B6D4" width="100%" />
 </div>
 
 <br>
