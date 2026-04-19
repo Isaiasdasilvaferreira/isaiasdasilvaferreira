@@ -4,23 +4,9 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/NwareLink-CEO_%26_CTO-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=6366F1&labelColor=0D1117" alt="NwareLink" />
-<img src="https://img.shields.io/badge/Delta-R%26D_Leader-0D1117?style=for-the-badge&logo=triangle&logoColor=F43F5E&labelColor=0D1117" alt="Delta" />
-
-<br><br>
-
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td align="center" style="border: none; padding: 0;">
-        <img src="https://revistaaquiali.com.br/wp-content/uploads/2024/05/Etec-1.jpg" height="60" alt="ETEC - Escola Técnica Estadual" style="display: block; margin: 0 auto;" />
-    </td>
-  </tr>
-  <tr style="border: none;">
-    <td align="center" style="border: none; padding-top: 8px;">
-      <img src="https://img.shields.io/badge/ETEC-Systems_Development-0D1117?style=flat-square&logo=go&logoColor=E11D48&labelColor=0D1117" alt="ETEC Systems Development" />
-    </td>
-  </tr>
-</table>
+[![NwareLink](https://img.shields.io/badge/NwareLink-CEO_%26_CTO-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=6366F1&labelColor=0D1117)](#)
+[![Delta](https://img.shields.io/badge/Delta-R%26D_Leader-0D1117?style=for-the-badge&logo=codeforces&logoColor=F43F5E&labelColor=0D1117)](#)
+[![ETEC](https://img.shields.io/badge/ETEC-Systems_Development-0D1117?style=for-the-badge&logo=saopaulo&logoColor=E11D48&labelColor=0D1117)](#)
 
 <br>
 
