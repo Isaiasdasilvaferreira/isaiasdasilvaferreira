@@ -4,9 +4,9 @@
 
 <br>
 
-[![NwareLink](https://img.shields.io/badge/NwareLink-CEO_%26_CTO-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=6366F1&labelColor=0D1117)](#)
-[![Delta](https://img.shields.io/badge/Delta-R%26D_Leader-0D1117?style=for-the-badge&logo=codeforces&logoColor=F43F5E&labelColor=0D1117)](#)
-[![ETEC](https://img.shields.io/badge/ETEC-Systems_Development-0D1117?style=for-the-badge&logo=saopaulo&logoColor=E11D48&labelColor=0D1117)](#)
+[![NwareLink]
+[![Delta]
+[![ETEC]
 
 <br>
 
