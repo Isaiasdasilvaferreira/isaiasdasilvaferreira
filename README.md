@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00C6C7&center=true&vCenter=true&width=700&height=80&lines=%3E+CEO+%26+CTO+@+NwareLink;%3E+R%26D+Leader+@+Delta;%3E+Fullstack+Systems+Architect;%3E+Executing+High+Performance+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=1D4ED8&center=true&vCenter=true&width=700&height=80&lines=%3E+CEO+%26+CTO+@+NwareLink;%3E+R%26D+Leader+@+Delta;%3E+Fullstack+Systems+Architect;%3E+Executing+High+Performance+Systems" alt="Typing SVG" />
 
 <br>
 
@@ -26,19 +26,19 @@ Technology entrepreneur and systems engineer focused on **high-performance archi
   <tr>
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/Languages-0D1117?style=for-the-badge&logo=codeforces&logoColor=FACC15" /><br><br>
-      <img src="https://skillicons.dev/icons?i=java,js,cpp,py" />
+      <img src="https://skillicons.dev/icons?i=java,js,cpp,py&theme=dark" />
     </td>
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/Databases-0D1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E" /><br><br>
-      <img src="https://skillicons.dev/icons?i=supabase,postgres,firebase" />
+      <img src="https://skillicons.dev/icons?i=supabase,postgres,firebase&theme=dark" />
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Frameworks-0D1117?style=for-the-badge&logo=layers&logoColor=6366F1" /><br><br>
-      <img src="https://skillicons.dev/icons?i=react,vite,spring,django,flask" />
+      <img src="https://img.shields.io/badge/Frameworks-0D1117?style=for-the-badge&logo=layers&logoColor=1D4ED8" /><br><br>
+      <img src="https://skillicons.dev/icons?i=react,vite,spring,django,flask&theme=dark" />
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Web_Infra-0D1117?style=for-the-badge&logo=server&logoColor=A855F7" /><br><br>
-      <img src="https://skillicons.dev/icons?i=html,css,git,vercel,linux" />
+      <img src="https://img.shields.io/badge/Web_Infra-0D1117?style=for-the-badge&logo=server&logoColor=1D4ED8" /><br><br>
+      <img src="https://skillicons.dev/icons?i=html,css,git,vercel,linux&theme=dark" />
     </td>
   </tr>
 </table>
@@ -74,16 +74,16 @@ Technology entrepreneur and systems engineer focused on **high-performance archi
 ### 📊 System Diagnostics & Engine Activity
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Engine_Activity-77_Contributions_in_the_last_year-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Engine_Activity-77_Contributions_in_the_last_year-1D4ED8?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
   
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=isaiasdasilvaferreira&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00C6C7&title_color=00C6C7&text_color=94A3B8" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaiasdasilvaferreira&layout=compact&theme=tokyonight&hide_border=true&bg_color=00C6C7&title_color=00C6C7&text_color=3ECF8E" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=isaiasdasilvaferreira&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1D4ED8&text_color=94A3B8" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaiasdasilvaferreira&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1D4ED8&text_color=3ECF8E" height="170" />
   
   <br>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isaiasdasilvaferreira&theme=tokyonight&bg_color=00C6C7&hide_border=true&color=00C6C7" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isaiasdasilvaferreira&theme=tokyonight&bg_color=0D1117&hide_border=true&color=1D4ED8" width="100%" />
 </div>
 
 <br>
