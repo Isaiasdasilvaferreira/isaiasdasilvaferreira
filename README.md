@@ -1,40 +1,82 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=600&lines=CEO+%26+CTO+%40+NwareLink;Research+%26+Development+Leader;System+Architect+%7C+Security+Engineer" alt="Typing SVG" />
-</p>
+# Delta
 
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-brightgreen?style=for-the-badge&logo=github&labelColor=0D1117&color=00FFAA"/>
-  <img src="https://img.shields.io/badge/EXPERIENCE-1%2B%20Year%20Full--Time-blue?style=for-the-badge&logo=code&labelColor=0D1117&color=007ACC"/>
-  <img src="https://img.shields.io/badge/SINCE-14%20Years%20Old-orange?style=for-the-badge&logo=raspberrypi&labelColor=0D1117&color=FF6600"/>
-</p>
+> CEO & CTO @ NwareLink • Research and Development Leader @ Delta
+
+Engineer and technologist. Started at 14 — fully dedicated for over a year.  
+I build secure, high-performance systems and lead technical teams.
 
 ---
 
-## ⚡ Perfil do Operador | System Profile
+## Technical Skills
 
-```yaml
-nome: Delta
-cargo_atual: 
-  - CEO & CTO @ NwareLink
-  - Research and Development Leader @ Delta
-  - Research and Development Engineer @ Delta
-dedicacao: Full-time | 1+ ano no setor de tecnologia
-inicio: 14 anos (autodidata e projetos pessoais)
-foco: Inovação tecnológica, segurança de sistemas, otimização de performance
+| Area               | Technologies |
+|--------------------|--------------|
+| Languages          | Java, JavaScript, C++, Python |
+| Databases          | PostgreSQL, Firebase (NoSQL), Oracle (SQL/PLSQL) |
+| Frameworks         | React, Vite, Tauri, Flask, Django, Spring Boot |
+| Web & Core         | HTML, CSS, REST APIs, system architecture, cryptography |
 
-Categoria	Tecnologias
-Linguagens	Java JavaScript C++ Python
-Bancos de Dados	PostgreSQL Firebase/NoSQL Oracle (SQL/PLSQL)
-Frameworks	React Vite Tauri Flask Django Spring Boot
-Web & Infra	HTML5 CSS3 REST APIs Estruturas de rede Criptografia aplicada
+---
 
-🧪 Projetos de Impacto | Key Metrics & Contributions
-70% de melhoria na performance de fluxo de dados via APIs externas
-(integração front-end/back-end em projetos corporativos)
+## Professional Experience
 
-diff
-+ CPU Optimization Algorithm (C++/C)    → Eficiência de processamento aumentada
-+ Python Accounting System              → Leitura de Excel + processamento massivo em segundos
-+ Security-first architecture (Delta)   → Modelos de integridade e proteção de dados
-+ Database applications (NwareLink)     → Aplicações para áreas empresariais e institucionais
+### NwareLink — CEO & CTO
+*Jun 2025 – Present*
 
+- Founded the startup and manage strategy, marketing, and internal structure
+- Lead a technology team of 10+ professionals
+- Developed a CPU optimization algorithm in C++/C
+- Built a Python accounting system processing large Excel data in seconds
+- Created database applications for business and institutional use
+
+### Delta — Research and Development Leader
+*Feb 2026 – Present*
+
+- Lead research on system security and integrity models
+- Define technical guidelines for data protection and resilience
+- Oversee validation cycles and intellectual property protection
+- Analyze trends for critical infrastructure
+
+### Delta — Research and Development Engineer
+*Feb 2026 – Present*
+
+- Develop logical architecture with security-first principles
+- Build high-performance components for distributed systems
+- Optimize encryption and secure communication processes
+- Transform theoretical models into functional code
+
+---
+
+## Key Achievement
+
+> **70% performance improvement** in data flow through external APIs  
+> *Front-end/back-end integration in corporate projects*
+
+---
+
+## Education
+
+**Systems Development — Integrated Technical Course**  
+ETEC — Escola Técnica Estadual de São Paulo  
+*Feb 2025 – Dec 2027*
+
+---
+
+## Certifications
+
+| Certification | Institution | Date |
+|---------------|-------------|------|
+| Oracle Java Foundations | Oracle | Feb 2026 |
+| Oracle PL/SQL | IFRS | Jan 2026 |
+| Fundamentals of AI | SENAI | Jun 2025 |
+| Database Administration (MySQL + NoSQL) | Fundação Bradesco | Mar 2025 |
+| Introduction to Control Systems | ITA | Jan 2025 |
+| English for Career Development | UPenn | Feb 2025 |
+
+---
+
+## Contact
+
+- [LinkedIn](https://linkedin.com/in/seu-perfil)
+- [Email](mailto:seu@email.com)
+- [GitHub](https://github.com/seuusuario)
