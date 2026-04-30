@@ -63,11 +63,11 @@ Technology entrepreneur and systems engineer focused on **high-performance archi
 
 | Authority | Credential | Core Competencies |
 | :--- | :--- | :--- |
-| **ITA** | Systems Control | Mathematical Modeling & Control Engineering |
+| **ITA (Coursera)** | Introduction Systems Control | Mathematical Modeling & Control Engineering |
 | **Oracle** | Java Foundations | Advanced OOP & Logic Structures |
 | **IFRS** | Oracle PL/SQL | Stored Procedures, Triggers & Performance Tuning |
 | **SENAI** | AI Foundations | Deep Learning & Ethical AI Implementations |
-| **UPenn** | Career Development | Strategic Communication & Business Writing |
+| **UPenn (Coursera)** | Career Development | Strategic Communication & Business Writing |
 
 ---
 
